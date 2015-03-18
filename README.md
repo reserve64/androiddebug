@@ -1,0 +1,2 @@
+# androiddebug
+debugDevice
